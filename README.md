@@ -14,6 +14,7 @@ library(ggplot2)
 library(tidyverse)
 library(DT)
 library(dplyr)
+library(shinythemes)
 
 2) Download the .zip file containing the rproject for this app.
 
