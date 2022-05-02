@@ -24,7 +24,7 @@ ui <- fluidPage(theme = shinytheme("flatly"),
   
   # Application title
   titlePanel(
-    h1("Starbucks Nutition Information", align = "center")),
+    h1("Starbucks Nutrition Information", align = "center")),
   
   sidebarLayout(
     sidebarPanel(
