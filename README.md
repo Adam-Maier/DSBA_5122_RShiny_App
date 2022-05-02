@@ -16,6 +16,6 @@ library(DT)
 library(dplyr)
 library(shinythemes)
 
-2) Download the Starbucks Analysis.zip file containing the rproject for this app.
+2) Download the Starbucks_Analysis.zip file containing the rproject for this app.
 
 3) Run the App in Rstudio. If the data cannot be found for whatever reason ensure your working directory is set to the 'Starbuck Analysis' file.
